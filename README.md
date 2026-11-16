@@ -7,10 +7,10 @@ A light graph-paper theme for [Omarchy](https://omarchy.org/): warm paper surfac
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-graph-paper-light-theme
+omarchy theme install https://github.com/abhinavbxr/omarchy-graph-paper-light-theme
 ```
 
-> Replace `<your-username>` with your GitHub username and update the repository name if you publish under a different slug.
+
 
 ## Try locally
 
