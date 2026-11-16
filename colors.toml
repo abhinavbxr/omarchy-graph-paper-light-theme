@@ -1,0 +1,32 @@
+# Graph Paper Light
+mode = "light"
+
+accent = "#2f6f9f"
+selection = "#d7d2c4"
+muted = "#9a9486"
+
+background = "#f4f1e6"
+dark_background = "#eae5d8"
+darker_background = "#ddd7c8"
+lighter_background = "#fbf9f2"
+
+foreground = "#2b3138"
+dark_foreground = "#707883"
+light_foreground = "#454d57"
+bright_foreground = "#1f2429"
+
+red = "#b94f4f"
+yellow = "#a8861f"
+orange = "#b66a2c"
+green = "#4f8a5b"
+cyan = "#2f8f8a"
+blue = "#2f6f9f"
+magenta = "#8a5fa8"
+brown = "#6d563d"
+
+bright_red = "#cc6666"
+bright_yellow = "#c09a2a"
+bright_green = "#66a173"
+bright_cyan = "#47a8a2"
+bright_blue = "#4a86b8"
+bright_magenta = "#a179bf"
